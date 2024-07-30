@@ -1,2 +1,3 @@
 # CodeExample
-Пример кода
+Game Resolution: Vertical 1080x1920
+Нажимай, чтобы стрелять во врагов.
